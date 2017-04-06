@@ -119,29 +119,29 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arredamenticenedese"
         }
     },
     "dependent_plugins": {},
